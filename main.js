@@ -140,7 +140,7 @@ function PortfolioBtn(){
         generateMesagges(3,"l",true,"img/img1.jpg","https://youssef-kandil.github.io/GYM/" ,"you can vist it from link above💙")
     }, 2000);
     setTimeout(() => {
-        generateMesagges(3,"l",true,"img/img2.jpg","https://www.creators-sa.com/" ,"you can vist it from link above💙")
+        generateMesagges(3,"l",true,"img/img3.png","https://www.creators-sa.com/" ,"you can vist it from link above💙")
     }, 4000);
     setTimeout(() => {
         generateMesagges(2,"l",false,"Do you want any thing else?","🥰")
