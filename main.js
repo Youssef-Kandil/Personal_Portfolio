@@ -103,7 +103,7 @@ function generateMesagges(MesNum,side,img,...MesText){
 load.classList.add("writing");
 setTimeout(() => {
     load.classList.remove("writing");
-    generateMesagges(4,"l",false,"am,Youssef Kandil","Front-end web developer & desktop application developer","EMAIL💙=> youssefkandil35@gmail.com","how can i help you?");
+    generateMesagges(4,"l",false,"am,Youssef Kandil","🔥 Front-End Developer | React.js & Next.js Specialist 🔥","📩 Email: youssefkandil35@gmail.com","how can i help you?");
 
 }, 2000);
 
@@ -118,13 +118,13 @@ function AboutBtn(){
     generateMesagges(2,"r",false,"Great But Why You?","👀🤔")
     
     setTimeout(() => {
-        generateMesagges(5,"l",false,"[1] low price","[2] high quality","[3] Responsive design","[4] clean code and pixel perfect design.","and i also make the website more & more interactive with web animations")
+        generateMesagges(5,"l",false,"✅ Affordable Pricing – High quality at a competitive cost","✅ Clean Code & Pixel-Perfect Design – For a seamless user experience","✅ Fully Responsive Design – Works flawlessly on all devices","✅ Top-Notch Quality – No compromises on performance or speed","✅ Interactive Web Animations – Bringing your website to life")
     }, 2000);
     setTimeout(() => {
         generateMesagges(1,"r",false,"Hoo that's Cool💙");
     }, 4000);
         setTimeout(() => {
-        generateMesagges(2,"l",false,"let Me Get You A Beautiful Website","EMAIL💙=> youssefkandil35@gmail.com","🥰")
+        generateMesagges(2,"l",false,"🚀 Let’s build a modern, high-performing, and engaging website together!","📩 Email: youssefkandil35@gmail.com 💙")
         
     }, 7000);
 };
@@ -140,7 +140,7 @@ function PortfolioBtn(){
         generateMesagges(3,"l",true,"img/img1.jpg","https://youssef-kandil.github.io/GYM/" ,"you can vist it from link above💙")
     }, 2000);
     setTimeout(() => {
-        generateMesagges(3,"l",true,"img/img2.jpg","https://youssef-kandil.github.io/idaalCours/" ,"you can vist it from link above💙")
+        generateMesagges(3,"l",true,"img/img2.jpg","https://www.creators-sa.com/" ,"you can vist it from link above💙")
     }, 4000);
     setTimeout(() => {
         generateMesagges(2,"l",false,"Do you want any thing else?","🥰")
